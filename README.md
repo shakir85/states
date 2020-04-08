@@ -1,2 +1,2 @@
 # states
-Python list and dict for all states abbriviations
+Python list and dict for all U.S. states abbriviations
